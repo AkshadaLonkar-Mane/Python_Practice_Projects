@@ -12,4 +12,4 @@ A simple calculator that performs basic arithmetic operations: addition, subtrac
 
 A fun game where the user tries to guess a randomly generated number within a specified range.
 
-- **[View Project](https://github.com/your-username/guess-the-number)**
+- **[View Project](https://github.com/AkshadaLonkar-Mane/Python_Practice_Projects/blob/main/guess_the_number.md)**
