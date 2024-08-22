@@ -6,7 +6,7 @@ This section highlights some of the Python practice projects I've developed. Eac
 
 A simple calculator that performs basic arithmetic operations: addition, subtraction, multiplication, division, and exponentiation.
 
-- **[View Project](https://github.com/your-username/basic-calculator)**
+- **[View Project](https://github.com/AkshadaLonkar-Mane/Python_Practice_Projects/blob/main/calculator.md)**
 
 ### Guess the Number
 
